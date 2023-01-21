@@ -1,5 +1,7 @@
 # TAHMİN OYUNU
 
+![images resim](https://github.com/senanariin/first_proje/blob/master/images.jpg)
+
 ## OYUN HAKKINDA  
 
   - *Bilgisayar rastgele bir sayı üretir. Ve amaç bu sayıyı doğru bir şekilde tahmin etmektir.*
